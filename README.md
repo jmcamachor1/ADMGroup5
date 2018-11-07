@@ -13,4 +13,5 @@ The goal of the Notebook is to extract valuable information about the service pr
 
 **3 .ypynb files** due to differences in the operating system and capacity of the computers of the members of the group, it was not possible to merge the all the tasks together. 
 
+**Screenshots**. Due to other technical issues, the CRQ2.ypynb did not display the choroplet maps. That is why two screenshots of the maps are uploaded.
 
