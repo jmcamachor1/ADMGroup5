@@ -10,6 +10,7 @@ For this analysis an [open data of Taxi's trips in NYC](http://www.nyc.gov/html/
 
 The goal of the Notebook is to extract valuable information about the service provide in New York by yellow cabs taxis.
 
+**Note:**
 
 **3 .ypynb files** due to differences in the operating system and capacity of the computers of the members of the group, it was not possible to merge the all the tasks together. 
 
