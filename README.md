@@ -12,7 +12,7 @@ The goal of the Notebook is to extract valuable information about the service pr
 
 **Note:**
 
-**3 .ypynb files** due to differences in the operating system and capacity of the computers of the members of the group, it was not possible to merge the all the tasks together. 
+**3 .ipynb files** due to differences in the operating system and capacity of the computers of the members of the group, it was not possible to merge the all the tasks together. The core question 2 is uploaded in the file CRQ_(2).ipynb and the research question 5 is uploaded as RQ_5.ipynb. The other tasks are in the file REPORT notebook.  
 
 **Screenshots**. Due to other technical issues, the CRQ2.ypynb did not display the choroplet maps. That is why two screenshots of the maps are uploaded.
 
